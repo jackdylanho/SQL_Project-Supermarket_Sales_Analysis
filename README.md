@@ -56,7 +56,7 @@ Here's the breakdown:
 
 This analysis focuses on the performance of different product lines, providing insights into which products are generating the most sales overall and within each branch.
 
-![Number of Sales by Branch and Product Line](assets\graph1.png)
+![Number of Sales by Branch and Product Line](assets/graph1.png)
 *A clustered bar chart displaying the number of sales by branch and product line.*
 
 Here's the breakdown:
@@ -104,10 +104,10 @@ Time-series analysis of both sales volume and revenue involves examining sales d
 ***Note: Both the number of sales and the revenue generally follow a similar pattern throughout the hours of the day. Therefore, I have chosen to focus and display only the Sales data.***
 
 ### Peak Sales Time
-![Number of Sales by Branch and Purchasing Hour](assets\graph2.png)
+![Number of Sales by Branch and Purchasing Hour](assets/graph2.png)
 *A clustered bar chart showing the number of sales by branch and purchasing time. This is used to compare the number of sales across different branches (A, B, C) at various purchasing hours. Each branch is represented by groups of bars, each color-coded to correspond to a specific hour of the day.*
 
-![Number of Sales by Branch and Purchasing Hour](assets\graph3.png)
+![Number of Sales by Branch and Purchasing Hour](assets/graph3.png)
 *Stacked horizontal bar charts showing the number of sales by product line, branch, and purchasing time. This type of chart displays the breakdown of different product lines within a larger category (Branch A, B, C) for each time segment. Each bar represents a total value (number of sales), segmented into different colors that represent various product lines*
 
 Here's the breakdown:
@@ -133,11 +133,11 @@ Here's the breakdown:
 - Branch B: Evening peak suggests customers prefer shopping after work or later in the day, indicating a different shopping behavior compared to Branch A and C.
 
 ### Peak Sales by Yearly Quarter
-![Number of Sales by Branch and Yearly Quarter](assets\graph4.png)
+![Number of Sales by Branch and Yearly Quarter](assets/graph4.png)
 *A clustered bar chart showing the number of sales by branch across different yearly quarters. This compared the total number of sales for each branch (A, B, C) segmented by quarters. Each color within a bar represents a different quarter.*
 
 
-![Number of Sales by Product Line, Quarterm and Branch](assets\graph5.png)
+![Number of Sales by Product Line, Quarterm and Branch](assets/graph5.png)
 *Stacked horizontal bar charts segmented by product line for each branch (A, B, C), and further broken down by quarterly sales data. Each color represents a different quarter.*
 
 Here's the breakdown:
@@ -146,10 +146,10 @@ Here's the breakdown:
 - **Branch C:** Q1 is the peak for both revenue and sales, with high contributions from "Electronic accessories," "Fashion accessories," and "Food and beverages." Customer behavior indicates a preference for "Electronic accessories" and "Food and beverages."
 
 ### Peak Sales by Month
-![Number of Sales by Branch and Month](assets\graph6.png)
+![Number of Sales by Branch and Month](assets/graph6.png)
 *A clustered bar chart showing the number of sales by branch and month. Each group of bars represents one of the branches (A, B, C), with individual bars colored differently to correspond to each month of the year.*
 
-![Number of Sales by Product Line, Branch and Month](assets\graph7.png)
+![Number of Sales by Product Line, Branch and Month](assets/graph7.png)
 *A series of stacked horizontal bar charts segmented by product line for each branch (A, B, C), and further broken down by monthly sales data. Each color represents a different month.*
 
 Here's the breakdown:
