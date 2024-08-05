@@ -110,7 +110,6 @@ Time-series analysis of both sales volume and revenue involves examining sales d
 ![Number of Sales by Branch and Purchasing Hour](assets/graph3.png)
 *Stacked horizontal bar charts showing the number of sales by product line, branch, and purchasing time. This type of chart displays the breakdown of different product lines within a larger category (Branch A, B, C) for each time segment. Each bar represents a total value (number of sales), segmented into different colors that represent various product lines*
 
-Here's the breakdown:
 
 **Branch-specific Peaks:**
 - Branch A: Peaks at 10:00 AM, indicating that morning is a crucial time for sales. This suggests that customers prefer shopping in the mid-morning hours.
@@ -152,7 +151,6 @@ Here's the breakdown:
 ![Number of Sales by Product Line, Branch and Month](assets/graph7.png)
 *A series of stacked horizontal bar charts segmented by product line for each branch (A, B, C), and further broken down by monthly sales data. Each color represents a different month.*
 
-Here's the breakdown:
 
 **Branch-specific Peaks:**	
 - Branch A: Peaks in March, indicating a preference for shopping during early spring.
@@ -164,9 +162,9 @@ Here's the breakdown:
 	- "Home and Lifestyle" products peaks in March and January, indicating that customers have a preference for shopping during the early spring and the new year.
 	- "Food and Beverages" products make significant contributions throughout the year, with distinct peaks in March, suggesting consistent demand with a notable increase in early spring.
 - Branch B:
-	"Sports and Travel" products see significant contributions in December, indicating that customers prefer to shop for these items during the holiday season.
+	- "Sports and Travel" products see significant contributions in December, indicating that customers prefer to shop for these items during the holiday season.
 - Branch C:
-	"Food and Beverages" products makes major contributions in November, indicating high demand during the late autumn months.
+	- "Food and Beverages" products makes major contributions in November, indicating high demand during the late autumn months.
 
 **Customer Behavior:**
 - Branch A and C:
