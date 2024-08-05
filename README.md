@@ -103,6 +103,7 @@ Time-series analysis of both sales volume and revenue involves examining sales d
 
 ***Note: Both the number of sales and the revenue generally follow a similar pattern throughout the hours of the day. Therefore, I have chosen to focus and display only the Sales data.***
 
+---
 ### Peak Sales Time
 ![Number of Sales by Branch and Purchasing Hour](assets/graph2.png)
 *A clustered bar chart showing the number of sales by branch and purchasing time. This is used to compare the number of sales across different branches (A, B, C) at various purchasing hours. Each branch is represented by groups of bars, each color-coded to correspond to a specific hour of the day.*
@@ -131,6 +132,7 @@ Time-series analysis of both sales volume and revenue involves examining sales d
 - Branch A and C: Customers prefer morning shopping for "Electronic Accessories," aligning with the overall peak times.
 - Branch B: Evening peak suggests customers prefer shopping after work or later in the day, indicating a different shopping behavior compared to Branch A and C.
 
+---
 ### Peak Sales by Yearly Quarter
 ![Number of Sales by Branch and Yearly Quarter](assets/graph4.png)
 *A clustered bar chart showing the number of sales by branch across different yearly quarters. This compared the total number of sales for each branch (A, B, C) segmented by quarters. Each color within a bar represents a different quarter.*
@@ -143,7 +145,7 @@ Here's the breakdown:
 - **Branch A:** Q1 is the peak for both revenue and sales, with major contributions from "Home and lifestyle," "Food and beverages," and "Electronic accessories." Customer behavior shows a preference for "Food and beverages" and "Electronic accessories."
 - **Branch B:** Q1 is the peak for both revenue and sales, with significant contributions from "Health and beauty," "Electronic accessories," and "Sports and travel." Customers prefer "Sports and travel" and "Fashion accessories."
 - **Branch C:** Q1 is the peak for both revenue and sales, with high contributions from "Electronic accessories," "Fashion accessories," and "Food and beverages." Customer behavior indicates a preference for "Electronic accessories" and "Food and beverages."
-
+---
 ### Peak Sales by Month
 ![Number of Sales by Branch and Month](assets/graph6.png)
 *A clustered bar chart showing the number of sales by branch and month. Each group of bars represents one of the branches (A, B, C), with individual bars colored differently to correspond to each month of the year.*
