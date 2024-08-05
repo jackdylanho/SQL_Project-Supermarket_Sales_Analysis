@@ -58,7 +58,3 @@ The overall supermarket also maintains a consistent gross profit margin of 4.76%
 */
 
 --
-The first query gives a snapshot of the overall financial health by calculating the total revenue.
-The second query breaks down this revenue by each branch to identify top-performing and underperforming branches.
-The third query calculates the total gross profit, providing an understanding of the profitability after accounting for production costs.
-The fourth query offers a branch-wise breakdown of gross profit, helping to pinpoint which branches are most profitable.

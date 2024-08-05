@@ -23,6 +23,9 @@ SELECT
         COUNT(invoice_id) AS sales_count
     FROM 
         supermarket_sales_staging
+    WHERE
+        branch = 'A' 
+        AND product_line IN ('Home and lifestyle' , 'Electronic accessories')
     GROUP BY 
         branch, 
         product_line,
