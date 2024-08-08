@@ -90,7 +90,8 @@ This analysis includes metrics related to the average amount spent per transacti
 | A      | 312.35                          |
 | B      | 319.87                          |
 | C      | 337.10                          |
-| **Total** | **969.32**                        |
+
+*Table of the average transaction value by branch.*
 
 Here's the breakdown:
 
